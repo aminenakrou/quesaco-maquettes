@@ -2,7 +2,7 @@
 
 Maquettes interactives d'une application mobile d'identification de la faune et de la flore, pensée pour des collégiens.
 
-**Démo en ligne :** [aminenakrou.github.io/QUESACO](https://aminenakrou.github.io/QUESACO/)
+**Démo en ligne :** [aminenakrou.github.io/quesaco-maquettes](https://aminenakrou.github.io/quesaco-maquettes/)
 
 ## Le principe
 
